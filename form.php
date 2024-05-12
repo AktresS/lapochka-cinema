@@ -15,7 +15,7 @@
                                 <input type="text" placeholder="Email">
                             </div>
                             <div class="input-box">
-                                <input type="text" placeholder="Пароль">
+                                <input type="password" placeholder="Пароль">
                             </div>
                         </div>
                         <div class="checkbox__remember">
